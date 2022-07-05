@@ -1,0 +1,5 @@
+# python 3.6+ 
+PyDrive
+google-api-python-client
+# we need exactly this version of httplib2, other may cause "RedirectMissingLocation: Redirected but the response is missing a Location: header"
+httplib2==0.15.0
